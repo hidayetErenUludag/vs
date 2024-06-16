@@ -23,3 +23,9 @@ C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\refint\cnew.dll
 C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\cnew.pdb
 C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\cnew.genruntimeconfig.cache
 C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\ref\cnew.dll
+C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\cnew.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\vs\cnew\bin\Debug\net8.0\QuickGraph.Data.dll
+C:\Users\HP\Desktop\vs\cnew\bin\Debug\net8.0\QuickGraph.Graphviz.dll
+C:\Users\HP\Desktop\vs\cnew\bin\Debug\net8.0\QuickGraph.Serialization.dll
+C:\Users\HP\Desktop\vs\cnew\bin\Debug\net8.0\QuickGraph.dll
+C:\Users\HP\Desktop\vs\cnew\obj\Debug\net8.0\cnew.csproj.Up2Date

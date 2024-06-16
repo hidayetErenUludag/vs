@@ -1,6 +1,8 @@
 using System;
 using Hellow;
 using System.IO;
+using QuickGraph;
+using Microsoft.VisualBasic;
 namespace Hello
 {
     class CsvParser
@@ -25,14 +27,21 @@ namespace Hello
                     listC.Add(classes);
                 }
             }
+            
+            AdjacencyGraph<string, Edge<string>> myGraph = new AdjacencyGraph<string, Edge<string>>();
             for(int i = 0; i<listB.Count; i++){
                 for(int j = 0; j<listC[i].Count; j++){
                     Console.WriteLine(listB[i]);
                     Console.WriteLine(listC[i][j]);
                 }
             }
-           
+
+
         }
     }
-}
+    class Grapher
+    {
+        
+    }
+    }
 
