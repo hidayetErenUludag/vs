@@ -4,7 +4,8 @@ using System.IO;
 using QuickGraph;
 using Microsoft.VisualBasic;
 using QuickGraph.Graphviz;
-using IDotEngine;
+using QuickGraph.Graphviz.Dot;
+
 
 namespace Hello
 {
@@ -13,7 +14,7 @@ namespace Hello
         static void Main(String[] args)
         {
             List<string> listA = new List<string>();
-            List<string> listB = new List<string>();
+            List<string> listB = new();
             List<List<string>> listC = new List<List<string>>();
             StreamReader reader;
             using(reader = new StreamReader(@"C:\Users\HP\Desktop\vs\cnew\students_with_classes.csv"))
@@ -72,3 +73,4 @@ namespace Hello
 }
 }
 
+ 
